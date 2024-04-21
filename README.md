@@ -3,6 +3,29 @@ Summary of what I learned
 
 
 ## The Complete Web Development Bootcamp
+#Syllabus
+- HTML5
+- CSS3
+- BootStrap4
+- JavaScript ES6
+- DOM(Document Object Model)
+- Jquery
+- Unix command Line
+- Git, Github
+- Node.js
+- Express.js
+- API(Application Program Interface)
+- EJS
+- Database Fundmentals
+- SQL Databases
+- NoSQL Database / MongoDB
+- Mongoose
+- Deployment
+- Restful APIs
+- Authentication & Security
+- React.js
+
+
 #JavaScript ES6
 - The Fundamentals of Code
 - Starting code with alerts and prompts
