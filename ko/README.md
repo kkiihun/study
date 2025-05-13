@@ -1,4 +1,4 @@
-[🇰🇷 한국어](ko/README.md) | [🇺🇸 English](en/README.md)
+[🇰🇷 한국어](ko/README.md) | [🇺🇸 English](sutdy/README.md)
 
 # 공부 기록 포트폴리오
 
