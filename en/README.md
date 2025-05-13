@@ -1,6 +1,5 @@
-[🇰🇷 한국어](ko/README.md) | [🇺🇸 English](en/README.md)
 
-# Study Portfolio Template
+# Study Portfolio
 
 > A GitHub study portfolio organized into Korean (`ko/README.md`) and English (`en/README.md`) folders.
 
