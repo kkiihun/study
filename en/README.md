@@ -1,7 +1,7 @@
 
 # Study Portfolio
 
-> A GitHub study portfolio organized into Korean (`ko/README.md`) and English (`en/README.md`) folders.
+> This is a form for organizing my GitHub study history that reflects my career and interests.
 
 ---
 
