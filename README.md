@@ -1,6 +1,19 @@
+<!-- 루트 README.md -->
+
+<div align="center">
+
 # Study Portfolio
 
-언어를 선택하세요:  
-[🇰🇷 한국어](ko/README.md) | [🇺🇸 English](en/README.md)
+</div>
+
+<p align="center">
+  언어를 선택하세요:
+</p>
+
+<p align="center">
+  <a href="ko/README.md">🇰🇷 **한국어**</a> &nbsp;|&nbsp;
+  <a href="en/README.md">🇺🇸 **English**</a>
+</p>
 
 ---
+
