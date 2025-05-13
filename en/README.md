@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-- **Name:** Kihoon Kim
+- **Name:** Kihun Kim
 - **Role:** Deputy, FA Business Division at Becom Solutions
 - **Expertise:** Smart factory MES monitoring & automation, data science, drone & robotic arm projects
 - **Interests:** Sensory data (perfume, wine, travel), automation systems, digital nomad lifestyle
