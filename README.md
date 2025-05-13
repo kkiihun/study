@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="ko/README.md">🇰🇷 **한국어**</a> &nbsp;|&nbsp;
-  <a href="en/README.md">🇺🇸 **English**</a>
+  <a href="ko/README.md">🇰🇷 한글</a> &nbsp;|&nbsp;
+  <a href="en/README.md">🇺🇸 English</a>
 </p>
 
 ---
